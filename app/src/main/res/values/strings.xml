@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Trening</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="buton_text">Send</string>
+    <string name="roll_button_text">ROLL</string>
+</resources>
